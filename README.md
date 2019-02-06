@@ -10,7 +10,7 @@ The website offers a weekly calendar with healthy meal plans that is randomly ta
 * Redux
 * CSS
 
-[![Image from Gyazo](https://i.gyazo.com/3bb737a0e3e7f838697a505f035d5f9a.gif)](https://gyazo.com/3bb737a0e3e7f838697a505f035d5f9a)
+[View Demo](https://loized.com/img/meal/video_meal.gif) 
 
 **You can visit the actual website here**: https://planet-friendly-meal-planner.netlify.com
 
