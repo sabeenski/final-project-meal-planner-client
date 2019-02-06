@@ -10,10 +10,11 @@ The website offers a weekly calendar with healthy meal plans that is randomly ta
 * Redux
 * CSS
 
-![Demo](https://loized.com/img/meal/video_meal.gif)
+![Demo](http://www.giphy.com/gifs/2Wg1AWtHul6jaE6YYl)
 
 **You can visit the actual website here**: https://planet-friendly-meal-planner.netlify.com
-   *Username*: sabi@test.com *Password* : abcd1234
+   *Username*: sabi@test.com 
+   *Password* : abcd1234
   
 ### Team & Tasks
 * We were a team of 4 developers and 1 designer who worked together in this project for about 2 weeks time. An MVP was created with the features listed above. 
@@ -25,5 +26,5 @@ The website offers a weekly calendar with healthy meal plans that is randomly ta
 ### Project Management
 * We followed agile development methodology, a daily Scrum meeting to discuss, plan and share new ideas. Trello was used to track our daily tasks and Slack was used as a communication channel. 
 
-**The backend repo can be found here: https://github.com/sabeenski/final-project-meal-planner-server 
+**The backend repo can be found here: https://github.com/sabeenski/final-project-meal-planner-server**
 
