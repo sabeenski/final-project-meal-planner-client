@@ -10,15 +10,14 @@ The website offers a weekly calendar with healthy meal plans that is randomly ta
 * Redux
 * CSS
 
-![](https://loized.com/img/meal/video_meal.gif)
+![Demo](https://loized.com/img/meal/video_meal.gif)
 
 
 ### Team & Tasks
 * We were a team of 4 developers and 1 designer who worked together in this project for about 2 weeks time. An MVP was created with the features listed above. 
-* I was handling the frontend together with another developer. 
-* You may see my codes here: 
+* 2 developers handled back-end and the other two handled front-end. I was responsible for the frontend application, working closely with the UX designer. 
+* You may see my *some* of mycodes here: 
 [RecipeDetails](https://github.com/sabeenski/final-project-meal-planner-client/blob/master/src/components/recipes/RecipeDetails.js)
-
 [NavBar](https://github.com/sabeenski/final-project-meal-planner-client/blob/master/src/components/navbar/Navbar.js)
 
 ### Project Management
