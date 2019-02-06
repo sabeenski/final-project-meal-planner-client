@@ -14,9 +14,9 @@ The website offers a weekly calendar with healthy meal plans that is randomly ta
 
 **You can visit the actual website here**: https://planet-friendly-meal-planner.netlify.com
 
-   *Username*: sabi@test.com 
+    *Username*: sabi@test.com 
    
-   *Password* : abcd1234
+    *Password* : abcd1234
   
 ### Team & Tasks
 * We were a team of 4 developers and 1 designer who worked together in this project for about 2 weeks time. An MVP was created with the features listed above. 
