@@ -1,10 +1,20 @@
 # Planet Friendly Meal Planner 
 This is a front-end part of our full stack team project that plans planet friendly meals.
   
-### Description 
+## Description 
 The website offers a weekly calendar with healthy meal plans that is randomly taken from the database. Ingredients are calculated based on the number of households. Users can choose or change a displayed meal plan and add it to their shopping list, which can be printed out.
 
-### Tech Stack
+## Features
+* Sign in/Log in page: helps the user create a secured user account that offers access to a personal weekly meal planner and a personalized shopping list.
+* Meal Planner Page: displays a personal planner that starts with seven random recipes (retrieved from a PosgreSQL database run on Heroku's servers).
+* Each recipe presents the ingredients calculated for the entire household (for children only half of the adult amount is calculated).
+* Change recipe button: gives the user the option to change a recipe from the planner with another one from the recipes list.
+* Add to (shopping) list button: creates a shopping list by either adding the ingredients for all recipes at once or for one recipe at a time.
+* Shopping cart button: displays the shopping list.
+* Print / Clear buttons: help the user to print or clear the shopping list.
+* Log out button: redirects the user to the Log in page.
+
+## Tech Stack
 * JavaScript
 * React
 * Redux
