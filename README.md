@@ -1,52 +1,29 @@
+# Planet Friendly Meal Planner - Front-end
+This is a part of our full stack team project that plans planet friendly meals.
+  
+# Description 
+The website offers a weekly calendar with healthy meal plans that is randomly taken from the database. Ingredients are calculated based on the number of households. Users can choose or change a displayed meal plan and add it to their shopping list, which can be printed out.
 
-This is a part of our full stack team project that uses React and Redux for the front end. The website offers a weekly calendar for healthy meal plans that is randomly taken from the database. Ingredients are calculated based on the number of households. Users can choose or change a displayed meal plan and add it to their shopping list, which can be printed out.
+# Tech Stack
+* JavaScript
+* React
+* Redux
+* CSS
+
+![https://loized.com/img/meal/video_meal.gif]
+
+
+# Team
+* We were a team of 4 developers and 1 designer who worked together in this project for about 2 weeks time. An MVP was created with the features listed above. 
+* I was handling the frontend together with another developer. 
+* You may see my codes here: 
+[RecipeDetails](https://github.com/sabeenski/final-project-meal-planner-client/blob/master/src/components/recipes/RecipeDetails.js)
+[NavBar](https://github.com/sabeenski/final-project-meal-planner-client/blob/master/src/components/navbar/Navbar.js)
+
+# Project Management
+* We followed agile development methodology, a daily Scrum meeting to discuss, plan and share new ideas. Trello was used to create a tracj of our daily tasks and Slack was used as a communication channel. 
 
 The backend repo can be found here: https://github.com/sabeenski/final-project-meal-planner-server 
-You can visit the actual website here: https://planet-friendly-meal-planner.netlify.com/login
+You can visit the actual website here: https://planet-friendly-meal-planner.netlify.com
 ***************************************************************************************************
 
-<br>
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.<br>
-You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.<br>
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.<br>
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.<br>
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
