@@ -23,7 +23,8 @@ The website offers a weekly calendar with healthy meal plans that is randomly ta
 ### Project Management
 * We followed agile development methodology, a daily Scrum meeting to discuss, plan and share new ideas. Trello was used to track our daily tasks and Slack was used as a communication channel. 
 
-The backend repo can be found here: https://github.com/sabeenski/final-project-meal-planner-server 
-You can visit the actual website here: https://planet-friendly-meal-planner.netlify.com
-***************************************************************************************************
+**The backend repo can be found here: https://github.com/sabeenski/final-project-meal-planner-server 
+You can visit the actual website here: https://planet-friendly-meal-planner.netlify.com**
+  *Logins* : Username - sabi@test.com *Password* : abcd1234
+
 
