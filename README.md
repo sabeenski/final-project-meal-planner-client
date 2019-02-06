@@ -10,7 +10,7 @@ The website offers a weekly calendar with healthy meal plans that is randomly ta
 * Redux
 * CSS
 
-!(https://loized.com/img/meal/video_meal.gif)
+![](https://loized.com/img/meal/video_meal.gif)
 
 
 ### Team & Tasks
