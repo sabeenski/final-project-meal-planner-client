@@ -10,7 +10,7 @@ The website offers a weekly calendar with healthy meal plans that is randomly ta
 * Redux
 * CSS
 
-![Demo](https://static.independent.co.uk/s3fs-public/thumbnails/image/2017/09/12/11/naturo-monkey-selfie.jpg?w968h681)
+![Demo](https://loized.com/img/meal/video_meal.gif)
 
 **You can visit the actual website here**: https://planet-friendly-meal-planner.netlify.com
    *Username*: sabi@test.com *Password* : abcd1234
