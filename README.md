@@ -10,7 +10,7 @@ The website offers a weekly calendar with healthy meal plans that is randomly ta
 * Redux
 * CSS
 
-![View Demo](https://loized.com/img/meal/video_meal.gif)
+[View Demo](https://loized.com/img/meal/video_meal.gif)
 
 **You can visit the actual website here**: https://planet-friendly-meal-planner.netlify.com
 
@@ -28,5 +28,5 @@ The website offers a weekly calendar with healthy meal plans that is randomly ta
 ### Project Management
 * We followed agile development methodology, a daily Scrum meeting to discuss, plan and share new ideas. Trello was used to track our daily tasks and Slack was used as a communication channel. 
 
-**The back-end repo can be found here: https://github.com/sabeenski/final-project-meal-planner-server**
+**The back-end repo can be found here**: https://github.com/sabeenski/final-project-meal-planner-server
 
