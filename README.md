@@ -18,7 +18,8 @@ The website offers a weekly calendar with healthy meal plans that is randomly ta
 * JavaScript
 * React
 * Redux
-* CSS
+* HTML5
+* CSS3
 
 [View Demo](https://loized.com/img/meal/video_meal.gif) 
 
